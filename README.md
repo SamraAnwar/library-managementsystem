@@ -2,6 +2,10 @@
 
 A comprehensive Library Management System built with React (Vite), Express.js, and MySQL. This FYP project provides complete functionality for managing books, students, and book borrowing/returning operations.
 
+⚡ Live Demo
+
+👉 https://library-managementsystem.vercel.app/
+
 ## Features
 
 ### Admin Features
@@ -80,12 +84,12 @@ library-management-system/
 ## Demo Credentials
 
 ### Admin Account
-- **Username**: admin
+- **Username**: admin@library.edu
 - **Password**: admin123
 - **Role**: Admin
 
 ### Student Accounts
-- **Username**: student1, student2, student3, student4, student5
+- **Username**: ali@uni.edu,sara@uni.edu,bilal@uni.edu,ayesha@uni.edu,hamza@uni.edu 
 - **Password**: pass123
 - **Role**: Student
 
